@@ -1,0 +1,26 @@
+# RSLogix / Backups and temp files
+*.bak
+*.BAK
+*.tmp
+*.TMP
+*.Sem
+*.WRK
+*.lck
+*.~*
+Backups/
+*.ACD.bak
+*.L5K.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Arduino build output (if you add the medication box project)
+build/
+*.hex
+*.elf
