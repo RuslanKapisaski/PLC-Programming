@@ -23,11 +23,3 @@ A PLC ladder logic project for controlling a compressor pump and pressure indica
 - RSLogix 500 / RSLogix Micro Starter Lite
 - RSLinx Classic and RSLogix Emulate 500 (for simulation)
 
-## Files
-
-- `Compressor_Pressure_Control.RSS` — editable PLC project (add your saved file)
-- `screenshots/ladder-logic.png` — ladder logic screenshot (add after final testing)
-
-## Notes
-
-This README describes the original digital-switch assignment. If implementing an analog pressure transmitter with `SCP`, document its actual analog input, scaling range, and updated logic separately.
